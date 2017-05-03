@@ -12,4 +12,5 @@ var hardware = { // creating a js object
 };
 //converting js object to JSON Object
 var s2Stringi = JSON.stringify(hardware,"",4);
+console.log(s2Stringi);
 //run and save the output in file named json.txt

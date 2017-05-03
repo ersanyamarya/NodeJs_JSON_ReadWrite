@@ -1,0 +1,12 @@
+{
+    "hardwareid": "123-TEST-45",
+    "type": "Device Measurements",
+    "requests": {
+        "Measurements": {
+            "temperature": 23,
+            "humidity": 17
+        }
+    },
+    "updateState": true,
+    "eventDate": "2017-05-03T05:55:17.075Z"
+}
