@@ -1,3 +1,10 @@
+/*....................................................
+* Author: Sanyam Arya
+* ersanyamarya@gmail.com
+* https://www.facebook.com/er.sanyam.arya
+* https://www.linkedin.com/in/sanyam-arya-077ab638/
+......................................................*/
+
 {
     "hardwareid": "123-TEST-45",
     "type": "Device Measurements",
